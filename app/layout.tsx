@@ -7,9 +7,14 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'Niraj Thapa - Portfolio',
-  description: 'Professional portfolio and resume of Niraj Thapa',
-  keywords: 'Niraj Thapa, Portfolio, Resume, Developer, Software Engineer',
+  description: 'Professional portfolio and resume of Niraj Thapa - IT Security Professional',
+  keywords: 'Niraj Thapa, Portfolio, Resume, Developer, IT Security, Cybersecurity, Software Engineer',
   authors: [{ name: 'Niraj Thapa' }],
+  icons: {
+    icon: '/favicon.svg',
+    shortcut: '/favicon.svg',
+    apple: '/favicon.svg',
+  },
 }
 
 export const viewport = {
