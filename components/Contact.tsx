@@ -38,12 +38,6 @@ const Contact = () => {
       url: 'https://github.com/Niraj47',
       color: 'hover:text-gray-900',
     },
-    {
-      icon: XSquare,
-      name: 'Twitter',
-      url: 'https://twitter.com/niraj_thapa',
-      color: 'hover:text-blue-400',
-    },
   ]
 
   return (
